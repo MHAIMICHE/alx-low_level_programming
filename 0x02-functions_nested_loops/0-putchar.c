@@ -6,7 +6,8 @@
  * Return: Always returns 0
  *
  */
-int main(void){
-  _putchar('_');
-  return (0);
+int main(void)
+{
+  M-\ _putchar('_');
+  M-\ return (0);
 }
